@@ -1,0 +1,26 @@
+
+{
+    "title":"Test Slide Show",
+    "slides":[
+        {
+            "image_file_name":"BadlandsSouthDakota.jpg",
+            "image_path":"C:\\Users\\Jimmy\\Desktop\\Fall 2015\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"Hi"
+        },
+        {
+            "image_file_name":"OregonTrailNebraska.jpg",
+            "image_path":"C:\\Users\\Jimmy\\Desktop\\Fall 2015\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"Yep"
+        },
+        {
+            "image_file_name":"GreatPlainsNebraska.jpg",
+            "image_path":"C:\\Users\\Jimmy\\Desktop\\Fall 2015\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"PLEASE WORK"
+        },
+        {
+            "image_file_name":"BryceCanyonUtah.jpg",
+            "image_path":"C:\\Users\\Jimmy\\Desktop\\Fall 2015\\SlideshowMaker\\images\\slide_show_images\\",
+            "caption":"Enter Caption"
+        }
+    ]
+}
